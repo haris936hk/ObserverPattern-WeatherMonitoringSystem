@@ -36,7 +36,7 @@ A Java Swing application demonstrating the **Observer Design Pattern** with real
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/WeatherMonitoringSystem.git
+git clone https://github.com/haris936hk/WeatherMonitoringSystem.git
 cd WeatherMonitoringSystem
 ```
 
